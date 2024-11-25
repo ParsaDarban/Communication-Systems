@@ -10,3 +10,5 @@ In this project, we aim to explore the concepts of signals, correlation function
 In this project, we will explore amplitude and phase modulation techniques such as AM, DSB, FM, and PM. We will implement these techniques and then demodulate them. Finally, we will examine the conversion of FM modulation to AM modulation.
 
 # CA3
+In this project, we will examine statistical distributions in signals. In the first two sections, we will focus on the Rayleigh distribution, which is commonly used in telecommunications, and explore random processes. 
+In the final section, we will study MPAM modulation and signal quantization in digital communications.
